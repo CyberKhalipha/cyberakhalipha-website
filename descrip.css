@@ -1,0 +1,181 @@
+ .container1{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background-color: rgb(8, 8, 58);
+            height: 250px;
+            
+        }
+        .cyber{
+            color: white;
+            font-family: Arial;
+            font-size: 30px;
+            font-weight: 400;
+            text-align: center;
+        }
+        .academia{
+            color: rgb(9, 212, 9);
+        }
+        .description{
+            font-family: Arial;
+            color: white;
+            width: 1500px;
+            line-height: 20px;
+            font-size: 18px;
+            text-align: center;
+        }
+        .button1{
+            background-color: rgb(9, 212, 9);
+            color: white;
+            height: 30px;
+            width: 180px;
+            border: none;
+            border-radius: 15px;
+            border-color: rgb(9, 212, 9); 
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 400;
+            cursor: pointer;
+        }
+        .link{
+            text-decoration: none;
+        }
+        .button2{
+            background-color: white;
+            color: black;
+            width: 150px;
+            height: 30px;
+            border-radius: 15px;
+            border: none;
+            font-weight: 400;
+            cursor: pointer;
+        }
+        .container2{
+            background: #ffffff;
+            border: 2px solid #e5e7eb;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+            border-radius: 16px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 15px;
+        }
+        .offers{
+            font-family: Arial;
+            text-align: center;
+        }
+        .paragraph1{
+            font-family: Arial;
+            font-weight: bolder;
+            color: rgb(0, 0, 0);
+            font-size: 20px;
+            margin-bottom: 2px;
+        }
+        .paragraph2{
+            font-family: Arial;
+            
+            font-size: 16px;
+            color: rgb(87, 71, 71); 
+        }
+        .register{
+            font-family: Arial;
+            text-align: center;
+            color: white;
+        }
+        .paragraph3{
+            font-family: Arial;
+            color: white;
+        }
+
+        .container3{
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: rgb(8, 8, 58);
+            border: 2px solid #e5e7eb;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+            border-radius: 16px;
+            padding: 20px;
+            
+        }
+
+         .container4{
+            background: #ffffff;
+            border: 2px solid #e5e7eb;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+            border-radius: 16px;
+            padding: 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 50px;
+        }
+        .container5{
+           margin-top: 30px;
+           display: flex;
+           flex-direction: column;
+           align-items: center;
+        }
+
+        .choose{
+            font-family: Arial;
+            font-weight: 500;
+            text-align: center;
+            font-size: 26px;
+        }
+        .paragraph4{
+            font-family: Arial;
+            text-align: center;
+        }
+
+        .button3{
+            background-color: rgb(9, 212, 9);
+            color: white;
+            height: 40px;
+            width: 230px;
+            border: none;
+            border-radius: 15px;
+            border-color: rgb(9, 212, 9); 
+            display: block;
+            margin-bottom: 10px;
+            font-weight: 400;
+            cursor: pointer;
+        }
+
+        .container6{
+             background-color: rgb(8, 8, 58);
+             height: 150px;
+            padding-left: 15px;
+            padding-right: 10px;
+            padding-top: 10px;
+            padding-bottom: 15px;
+            margin-top: 15px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+        .paragraph5,
+        .paragraph6
+        {
+            font-family: Arial;
+            color: white;
+            text-align: center;
+        }
+        .link1{
+            text-decoration: none;
+            color: rgb(28, 228, 28);
+            font-family: Arial;
+            text-align: center;
+        }
+        .paragraph8{
+            color: rgb(28, 228, 28);
+            font-family: Arial;
+            text-align: center;
+        }
+        .cyber1{
+            font-weight: 400;
+            font-size: 18px;
+            
+            
+        }
